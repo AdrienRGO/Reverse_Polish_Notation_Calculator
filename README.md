@@ -1,7 +1,5 @@
 # Calculatrice NPI
 
-## **1. About this project**
-
 The objective of this project was to realize a calculator respecting the **Reverse Polish Notation**.
 
 It also allows us understand and apply the design of a graphical interface quite simply in order to use the **Model-View-Controller (MVC) pattern** by cutting and linking each of our parts.
